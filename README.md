@@ -1,16 +1,16 @@
 I use Excel at everything:
 
-(1) Tracking my assignments 
-(2) Planning parties
-(3) Making a shopping list
-(4) Budgeting
+- Tracking my assignments
+- Planning parties
+- Making a shopping list
+- Budgeting
 
 Currently learning:
 
-(1) Excel (cause you can always do better)
-(2) Tableau (probably the most fun software to use)
-(3) Microsoft Azure
-(4) Microsoft Power Automate
+- Excel (cause you can always do better)
+- Tableau (probably the most fun software to use)
+- Microsoft Azure
+- Microsoft Power Automate
 
 Languages:
 
