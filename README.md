@@ -1,6 +1,8 @@
+Intro: 23 year old student who grew up soft/hard-bricking phones and laptops, and spending his days fixing them back. Samsung Galaxy S3 is the best phone I've ever used (and also had the best community resources). I dreamt of working at a CustomROM developers team until the big corpos turned them archaic.
+
+Hobbies: 
+
 Field: Business IT + AI Mangement
-
-
 
 Languages:
 
@@ -18,6 +20,11 @@ Currently learning:
 - TensorFlow
 - Web Scraping
 - Applied Analytics and AI in Finances and Real Estate
+
+Learning Goals:
+- Master Data Science and Engineering
+- Learn NLP and Sentiment Analysis
+- Learn Investigative Journalism with Data
 
 <!--
 **kaungkhantko/kaungkhantko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
