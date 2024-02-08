@@ -1,4 +1,4 @@
-Intro: 23 year old student who grew up soft/hard-bricking phones and laptops, and spending his days fixing them back. Samsung Galaxy S3 is the best phone I've ever used (and also had the best community resources). I dreamt of working at a CustomROM developers team until the big corpos turned them archaic.
+Intro: 22 year old student who grew up soft/hard-bricking phones and laptops, and spending his days fixing them back. Samsung Galaxy S3 is the best phone I've ever used (and also had the best community resources). I dreamt of working at a CustomROM developers team until the big corpos turned them archaic.
 
 Hobbies: 
 
