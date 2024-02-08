@@ -1,25 +1,23 @@
-I use Excel at everything:
+Field: Business IT + AI Mangement
 
-- Tracking my assignments
-- Planning parties
-- Making a shopping list
-- Budgeting
 
-Currently learning:
-
-- Excel (cause you can always do better)
-- Tableau (probably the most fun software to use)
-- Microsoft Azure
-- Microsoft Power Automate
 
 Languages:
 
 C#, C++, C, SQL, Python, Java, Javascript
 
 Interests:
+- Data Pipelining and Engineering
+- Data Investigation
+- Forecasting, Classicationg, Clustering with AI Models
+- Visualizing Data (I love Tableau's viz)
+- Excel (Everything; tracking my assignments, planning parties, making a shopping list, budgeting and finances..)
 
-- Flowcharts and Unified Modeling Language
-- Linux and Ubuntu
+Currently learning:
+- PowerBI
+- TensorFlow
+- Web Scraping
+- Applied Analytics and AI in Finances and Real Estate
 
 <!--
 **kaungkhantko/kaungkhantko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
