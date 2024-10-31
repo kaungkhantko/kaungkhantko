@@ -2,9 +2,9 @@
 Just a tech enthusiast who loves open-source software.
 
 ## Interests
-- Data Engineering and Investigation
 - Natural Language Processing (Text Classification, Topic Modeling, Zero-shot Prompting, Meta-prompting, etc)
 - MLOps
+- Data Engineering and Investigation
 
 ## Tech Stack
 - Operating Systems: Manjaro Linux (with KDE Plasma), Windows
