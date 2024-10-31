@@ -1,5 +1,5 @@
 # About Me
-Just a tech enthusiast who loves open-source software.
+Tech enthusiast who loves open-source software.
 
 ## Interests
 - Natural Language Processing (Text Classification, Topic Modeling, Zero-shot Prompting, Meta-prompting, etc)
