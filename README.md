@@ -13,7 +13,7 @@ Just a tech enthusiast who loves open-source software.
 - Scripting: Zsh, bash
 
 ## Inspirations
-[GNU](https://www.gnu.org/) | [Attention Is All You Need](https://arxiv.org/abs/1706.03762)| [Daniel Stanber](https://daniel.haxx.se/)| [LINUX](https://github.com/torvalds/linux)| 
+[GNU](https://www.gnu.org/) | [Attention Is All You Need](https://arxiv.org/abs/1706.03762)| [Daniel Stanberg](https://daniel.haxx.se/)| [LINUX](https://github.com/torvalds/linux)| 
 <!--
 **kaungkhantko/kaungkhantko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
