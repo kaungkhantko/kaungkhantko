@@ -16,7 +16,7 @@ Data person. Obsidian as note-taking.
 
 ## Some Inspirations
 - [Android Open Source Project (AOSP](https://source.android.com/) - Basically grew up with this. I respect Apple products but they could have never inspired me like AOSP did.
-- [Cyanogenmod] (https://cyanogenmodroms.com/) - Salvation for a financially constrained kid with Huawei C8800.
+- [Cyanogenmod](https://cyanogenmodroms.com/) - Salvation for a financially constrained kid with Huawei C8800.
 - [GNU](https://www.gnu.org/) - Striving towards adopting GNU's philosophy.
 - [LINUX](https://github.com/torvalds/linux) - As we all know, possibly the greatest, if not one of the greatest, invention in contemporary technology.
 - [Justice For Myanmar - Finance Map](https://data.justiceformyanmar.org/) - Advocative data investigation towards actionable insights. With real impact.
