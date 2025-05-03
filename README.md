@@ -1,12 +1,9 @@
 # About Me
-Tech enthusiast who loves open-source software. Currently using Manjaro Linux as my main operating system.
-Data person. Obsidian as note-taking.
+Data person who loves open-source software. Currently using Manjaro Linux as my main operating system. Obsidian as note-taking.
 
 ## Recent Interests
 
 ### Tech
-- Systems Design and Thinking
-- MLOps
 - Data Engineering with Software Engineering Best Practices
 - dbt (data build tool)
 - Web Crawling/Scraping
