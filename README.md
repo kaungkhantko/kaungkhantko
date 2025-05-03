@@ -1,30 +1,22 @@
 # About Me
-Tech enthusiast who loves open-source software.
+Tech enthusiast who loves open-source software. Currently using Manjaro Linux as my main operating system.
+Data person. Obsidian as note-taking.
 
-## Interests
-- Natural Language Processing (Text Classification, Topic Modeling, Zero-shot Prompting, Meta-prompting, etc)
+## Recent Interests
+
+### Tech
+- Systems Design and Thinking
 - MLOps
-- Data Engineering and Investigation
+- Data Engineering with Software Engineering Best Practices
+- dbt (data build tool)
+- Web Crawling/Scraping
 
-## Tech Stack
-- Operating Systems: Manjaro Linux (with KDE Plasma), Windows
-- Note-taking: Obsidian, emacs
-- IDE: VSCode
-- Scripting: Zsh, bash
+### Games
+- Roguelike (Hades, Deadcells, Slay the Spire, Balatro)
 
-## Inspirations
-[GNU](https://www.gnu.org/) | [Attention Is All You Need](https://arxiv.org/abs/1706.03762)| [Daniel Stanberg](https://daniel.haxx.se/)| [LINUX](https://github.com/torvalds/linux)| 
-<!--
-**kaungkhantko/kaungkhantko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Some Inspirations
+[Android Open Source Project (AOSP](https://source.android.com/) - Basically grew up with this. I respect Apple products but they could have never inspired me like AOSP did.
+[Cyanogenmod] (https://cyanogenmodroms.com/) - Salvation for a financially constrained kid with Huawei C8800.
+[GNU](https://www.gnu.org/) - Striving towards adopting GNU's philosophy.
+[LINUX](https://github.com/torvalds/linux) - As we all know, possibly the greatest, if not one of the greatest, invention in contemporary technology.
+[Justice For Myanmar - Finance Map](https://data.justiceformyanmar.org/) - Advocative data investigation towards actionable insights. With real impact.
