@@ -1,16 +1,3 @@
-# About Me
-Data person who loves open-source software. Currently using Manjaro Linux as my main operating system. Obsidian as note-taking.
-
-## Recent Interests
-
-### Tech
-- Data Engineering with Software Engineering Best Practices
-- dbt (data build tool)
-- Web Crawling/Scraping
-
-### Games
-- Roguelike (Hades, Deadcells, Slay the Spire, Balatro)
-
 ## Some Inspirations
 - [Android Open Source Project (AOSP)](https://source.android.com/) - Grew up with AOSP; salvation for a kid with hand-me-down android devices.
 - [GNU](https://www.gnu.org/) - Striving towards adopting GNU's philosophy.
